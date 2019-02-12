@@ -1,0 +1,2 @@
+# netcore-started
+Comenzando Netcore
